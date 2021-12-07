@@ -1,0 +1,3 @@
+let tempC = -15
+let tempF = "\((tempC * 9) / 5 + 32)"
+print ("It is \(tempC) C° outside or \(tempF) F°")
